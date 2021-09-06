@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CS.Toolkit.Automapper": {
+      "commandName": "DebugRoslynComponent"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CS.Toolkit.Generator": {
+      "commandName": "DebugRoslynComponent",
+      "remoteDebugEnabled": false
+    }
+  }
+}
